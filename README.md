@@ -18,3 +18,6 @@
 - [ArrayType](src/infer/Example01.ts)
 - [GetFirstArgumentOfAnyFunction](src/generics/Example01.ts)
 - [ReturnTypeManual](src/infer/ReturnType01.ts)
+
+## Links
+- [Understanding infer in TypeScript](https://blog.logrocket.com/understanding-infer-typescript/)
