@@ -1,7 +1,8 @@
 # TS practice
 
 ## Unions 
-- 'sm' | 'xs' | anything
+- 'sm' | 'xs' | anything - 01
+- derive a union type from an object - 02
 
 ## Generics
 - GetFirstArgumentOfAnyFunction 01
