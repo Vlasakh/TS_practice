@@ -6,6 +6,7 @@
 
 ## Generics
 - GetFirstArgumentOfAnyFunction 01
+- Get props type from a component with `PropsFrom` 07
 - In component 08
 - Omit 09
 - Moved a runtime check in a function to the type level 10
