@@ -5,13 +5,15 @@
 - derive a union type from an object - 02
 
 ## Generics
-- GetFirstArgumentOfAnyFunction 01
-- Get props type from a component with `PropsFrom` 07
-- In component 08
-- Omit 09
-- Moved a runtime check in a function to the type level 10
-- DeepPartial 11
-- LooseAutocomplete 12
+- GetFirstArgumentOfAnyFunction - 01
+- Get second level type of an object - 05
+- Get props type from a component with `PropsFrom` - 06
+- Process types for `Object.keys` - 07
+- In component - 08
+- Omit - 09
+- Moved a runtime check in a function to the type level - 10
+- DeepPartial - 11
+- LooseAutocomplete - 12
 
 ## Helpers
 - ReturnType - under the hood
