@@ -3,6 +3,7 @@
 ## Unions 
 - 'sm' | 'xs' | anything - 01
 - derive a union type from an object - 02
+- distributive conditional types - 03 - [link](https://artsy.github.io/blog/2018/11/21/conditional-types-in-typescript/)
 
 ## Generics
 - GetFirstArgumentOfAnyFunction - 01
