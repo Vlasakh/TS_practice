@@ -29,6 +29,10 @@
 - distributive conditional types - 01 - [link](https://artsy.github.io/blog/2018/11/21/conditional-types-in-typescript/)
 - distributive conditional types practice - 02, 03
 
+## TypeGuards
+
+- TypeGuards
+
 ## Helpers
 
 - ReturnType - under the hood
