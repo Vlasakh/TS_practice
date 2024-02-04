@@ -1,4 +1,4 @@
-import { Action, ActionType } from './DistributiveConditionalTypes03';
+import { Action, ActionType } from './DistributiveConditionalTypes01';
 
 type ExcludeTypeField<A> = { [K in Exclude<keyof A, 'type'>]: A[K] };
 type ExtractActionParameters1<A, T> = A extends { type: T } ? ExcludeTypeField<A> : never;

@@ -2,7 +2,7 @@
  * Use what you’ve learned so far to make it an error to supply a second argument for ‘simple’ actions.
  */
 
-import { Action, ActionType, ExcludeTypeField, ExtractSimpleAction } from './DistributiveConditionalTypes03';
+import { Action, ActionType, ExcludeTypeField, ExtractSimpleAction } from './DistributiveConditionalTypes01';
 
 type ExtractActionParameters<A, T> = A extends { type: T }
   ? {} extends Omit<A, 'type'>
